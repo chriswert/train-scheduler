@@ -1,0 +1,46 @@
+body {
+background-color: rgb(211, 211, 211)
+}
+
+.jumbotron {
+    background-color: rgb(87, 14, 14);
+    color: white;
+    text-align: center;
+}
+table {
+    margin-left: 20px;
+}
+.tableBox {
+    border: 2px solid black;
+    background-color: white;
+    margin-bottom: 30px;
+}
+.schedHeader {
+ background-color: rgb(28, 28, 129); 
+ color: white;
+ padding: 10px;  
+}
+th {
+    padding-right: 60px;
+    padding-bottom: 20px;
+}
+col {
+    border-bottom: 5px solid black;
+}
+form {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.formHeader {
+    background-color: rgb(28, 28, 129); 
+    color: white;
+    padding: 10px; 
+}
+.formBox {
+    border: 2px solid black;
+    background-color: white;
+    margin-bottom: 40px;
+}
+button {
+    margin-bottom: 20px
+}
